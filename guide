@@ -1,0 +1,192 @@
+{
+    "guideServiceList": [
+        {
+            "timeZone": "Central Observing",
+            "attributes": [
+                "Digital",
+                "HDTV"
+            ],
+            "state": "TX",
+            "url": "www.kristv.com",
+            "type": "Low Power Broadcast",
+            "guideID": "87678",
+            "callSign": "K22JAD",
+            "affiliate": "Telemundo",
+            "city": "Corpus Christi",
+            "zipCode": "78401",
+            "country": "USA",
+            "dmaName": "DMA",
+            "dmaNumber": 600,
+            "relationships": [
+                {
+                    "type": "Digital Sibling",
+                    "id": 58515,
+                    "name": ""
+                }
+            ],
+            "inNMD": false,
+            "edLangs": [
+                "es",
+                "en"
+            ],
+            "bcastLangs": [
+                "es",
+                "en"
+            ],
+            "majorChannelNum": "22",
+            "minorChannelNum": "1",
+            "frequency": "22",
+            "marketIds": [
+                {
+                    "type": "DMA",
+                    "id": 600
+                }
+            ],
+            "gsimages": [
+                {
+                    "width": "180",
+                    "height": "135",
+                    "category": "Parent Logo",
+                    "tmsurl": "h5/NowShowing/10239/s10239_h5_ba.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h5/NowShowing/10239/s10239_h5_ba.png",
+                    "primary": "true"
+                },
+                {
+                    "width": "360",
+                    "height": "270",
+                    "category": "Parent Logo",
+                    "tmsurl": "h3/NowShowing/10239/s10239_h3_ba.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h3/NowShowing/10239/s10239_h3_ba.png",
+                    "primary": "true"
+                },
+                {
+                    "width": "360",
+                    "height": "270",
+                    "category": "Parent Logo",
+                    "tmsurl": "h3/NowShowing/10239/s10239_h3_aa.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h3/NowShowing/10239/s10239_h3_aa.png",
+                    "primary": "true"
+                },
+                {
+                    "width": "90",
+                    "height": "67",
+                    "category": "Parent Logo",
+                    "tmsurl": "h4/NowShowing/10239/s10239_h4_aa.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h4/NowShowing/10239/s10239_h4_aa.png",
+                    "primary": "true"
+                },
+                {
+                    "width": "180",
+                    "height": "135",
+                    "category": "Parent Logo",
+                    "tmsurl": "h5/NowShowing/10239/s10239_h5_aa.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h5/NowShowing/10239/s10239_h5_aa.png",
+                    "primary": "true"
+                },
+                {
+                    "width": "90",
+                    "height": "67",
+                    "category": "Parent Logo",
+                    "tmsurl": "h4/NowShowing/10239/s10239_h4_ba.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h4/NowShowing/10239/s10239_h4_ba.png",
+                    "primary": "true"
+                }
+            ],
+            "linkToSchedule": "https://pi-sit-b.timewarnercable.com/xmp/guideservice/guide/87678/schedule/",
+            "name": "K22JAD (K22JA-D)"
+        },
+        {
+            "timeZone": "Central Observing",
+            "attributes": [
+                "Digital",
+                "SDTV"
+            ],
+            "state": "",
+            "type": "Low Power Broadcast",
+            "guideID": "87689",
+            "callSign": "K22JAD2",
+            "affiliate": "Independent",
+            "city": "",
+            "zipCode": "",
+            "country": "",
+            "dmaName": "DMA",
+            "dmaNumber": 600,
+            "relationships": [
+                {
+                    "type": "Digital Sibling",
+                    "id": 87678,
+                    "name": ""
+                }
+            ],
+            "inNMD": false,
+            "edLangs": [
+                "en"
+            ],
+            "bcastLangs": [
+                "en"
+            ],
+            "majorChannelNum": "22",
+            "minorChannelNum": "2",
+            "frequency": "22",
+            "marketIds": [
+                {
+                    "type": "DMA",
+                    "id": 600
+                }
+            ],
+            "linkToSchedule": "https://pi-sit-b.timewarnercable.com/xmp/guideservice/guide/87689/schedule/",
+            "name": "K22JAD2 (K22JA-D2)"
+        },
+        {
+            "timeZone": "Central Observing",
+            "attributes": [
+                "Digital",
+                "SDTV"
+            ],
+            "state": "IL",
+            "url": "www.3abn.org/",
+            "type": "Digital Broadcast Network",
+            "guideID": "10002",
+            "callSign": "3ANGELS",
+            "city": "West Frankfort",
+            "zipCode": "62896",
+            "country": "USA",
+            "dmaNumber": 0,
+            "inNMD": false,
+            "edLangs": [
+                "en"
+            ],
+            "bcastLangs": [
+                "en"
+            ],
+            "gsimages": [
+                {
+                    "width": "360",
+                    "height": "270",
+                    "category": "Logo",
+                    "tmsurl": "h3/NowShowing/10002/s10002_h3_aa.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h3/NowShowing/10002/s10002_h3_aa.png",
+                    "primary": "true"
+                },
+                {
+                    "width": "90",
+                    "height": "67",
+                    "category": "Logo",
+                    "tmsurl": "h4/NowShowing/10002/s10002_h4_aa.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h4/NowShowing/10002/s10002_h4_aa.png",
+                    "primary": "true"
+                },
+                {
+                    "width": "180",
+                    "height": "135",
+                    "category": "Logo",
+                    "tmsurl": "h5/NowShowing/10002/s10002_h5_aa.png",
+                    "twcurl": "https://pi-sit-b.timewarnercable.com/imageserver/image?image=h5/NowShowing/10002/s10002_h5_aa.png",
+                    "primary": "true"
+                }
+            ],
+            "linkToSchedule": "https://pi-sit-b.timewarnercable.com/xmp/guideservice/guide/10002/schedule/",
+            "name": "3 Angels Broadcasting Network"
+        }
+        ]
+}
